@@ -25,6 +25,10 @@ consider the goals, motivations and challenges associated with each.
 - [ ] External Maintainers or other Community Leaders
 - [ ] Other
 
+```
+🤖 Prompt: Help me identify the different types of collaborators I should expect for my open source project. Based on what you know about my project [describe your project briefly], who are the likely audiences that might want to contribute, use, or engage with it? For each group you identify, help me understand their typical motivations, what they might contribute, and what challenges they might face when trying to participate.
+```
+
 **What type of engagement do you think you'll see from these groups?**
 
 - [ ] Contribution (code, design, localization, documentation etc.)
@@ -33,6 +37,10 @@ consider the goals, motivations and challenges associated with each.
 - [ ] Content Production (social media or otherwise)
 - [ ] Leadership (GitHub triage role or other formalized position)
 - [ ] Other
+
+```
+🤖 Prompt: Based on my project [describe your project] and the collaborator types we identified, help me map out the different ways each group might engage with my project. What are the most common contribution patterns I should prepare for? Which types of engagement might require special processes or support from my team?
+```
 
 **What feelings and moods do you think you'll see (or you have seen)?**
 
@@ -66,6 +74,11 @@ Some moods you may run into:
 
 If, for any reason, you feel out of your comfort zone, refer to your organizational or team leadership.
 
+🤖 
+```
+Prompt: Help me prepare for the emotional aspects of open source collaboration. Given the nature of my project [describe briefly], what emotional situations am I most likely to encounter? Can you help me develop specific, empathetic response strategies for challenging emotions like frustration, urgency, or self-doubt that contributors might express? Also help me identify ways to amplify positive emotions and create a welcoming atmosphere.
+```
+
 ## :octocat: What tools are you using for these collaborations?
 
 **Which are company/project/org-owned/managed tools?** Your Code of Conduct applies
@@ -78,6 +91,11 @@ repository.
 - [ ] Mailing Lists
 - [ ] Blog(s)
 - [ ] Chat channels
+
+🤖 
+```
+Prompt: Help me audit the platforms and tools where my project has an official presence. For each platform I list [provide your list], help me identify what I need to document: admin access, Code of Conduct visibility, reporting mechanisms, and moderation capabilities. Create a reference sheet format I can use to ensure consistent community management across all our official channels.
+```
 
 **Which are owned/governed by external individuals or groups?**
 
@@ -97,6 +115,11 @@ the discretion of the channel/platform owner.
 > of Conduct and how to report incidents. If you can not find this information,
 > it's strongly recommended that you find alternate spaces for this
 > collaboration.
+
+🤖 
+```
+Prompt: Help me evaluate the external community spaces where my project's community gathers. For each external platform I mention [list them], help me research and understand: who moderates these spaces, what their community guidelines are, how to report issues, and what recourse I have if problems aren't addressed. Help me assess whether these align with my project values and suggest alternatives if needed.
+```
 
 ## :thumbsup:What behaviors do you want to ENCOURAGE?
 
@@ -130,6 +153,11 @@ evidence of project expectations_
       a PR on GitHub
 - [ ] Look for open issues of the same topic, before opening a new one.
 - [ ] Other policy
+
+🤖 
+```
+Prompt: Help me define positive behaviors I want to encourage in my project community. Based on my project type [describe your project] and the collaborators we identified, what specific inclusive and collaborative behaviors should I promote? Help me think about accessibility, cultural sensitivity, and effective collaboration patterns. Also help me determine where and how to document these expectations so they're visible and actionable.
+```
 
 ## :thumbsdown: What behaviors do you want to DISCOURAGE?
 
@@ -184,6 +212,11 @@ For example...
 - [ ] What other behaviors have you seen, which you would like to call out
       specifically?
 
+🤖 
+```
+Prompt: Help me identify specific disruptive and harmful behaviors I should discourage in my project context. Move beyond vague terms and help me create concrete, clear examples of what unacceptable behavior looks like for my project [describe your project]. Consider both obvious violations and subtle patterns that might derail productive collaboration or make contributors feel unwelcome. Help me phrase these in a way that's firm but not overly prescriptive.
+```
+
 ## :cactus: Consequences and when to use them
 
 Below are some ways a Code of Conduct/or escalation of what-seem-like-minor violations might be addressed, according
@@ -192,6 +225,11 @@ to severity.
 ### What is your escalation pathway?
 
 For the steps below, your team should have a conversation about accountability, but also document things like has admin-access should you need to ban an account.
+
+🤖 
+```
+Prompt: Help me design a clear escalation pathway for Code of Conduct issues in my project. Based on my team structure [describe your team/organization], help me map out: who should handle initial assessments, who has decision-making authority, what information needs to be documented at each step, and how to handle complex situations involving high-profile contributors or interpersonal conflicts. Create a flowchart or decision tree I can share with my team.
+```
 
 ### Warnings
 
@@ -250,6 +288,11 @@ it makes sense. If you are unsure, or there is a tension or anything which feels
 out of scope for your team to manage, it probably is out of scope, and you
 should reach out to your manager, or skip level following the same process
 identified at the top of this document.
+
+🤖 
+```
+Prompt: Help me define clear roles and responsibilities for Code of Conduct enforcement. Based on my team structure [describe your team], help me determine: who responds to initial reports, who needs to be consulted before taking action, who has final decision-making authority, and how to handle disagreements within the team. Also help me identify what situations require escalation beyond my immediate team and create documentation so everyone knows their role.
+```
 
 ### Examples
 
@@ -327,6 +370,11 @@ We will...
 - have a team conversation to create a checklist for action including review of
   all owned and not-owned spaces where this person collaborates.
 - update the reporter (if not no the team) on the actions we took
+
+🤖 
+```
+Prompt: Help me create detailed action plans and checklists for each type of enforcement action (warnings, temporary bans, permanent bans). For each scenario, help me outline: exact steps to take, who to notify, how to document incidents, communication templates I might need, and follow-up actions required. Consider edge cases like what to do when the violator is a major contributor, first-time contributor, or when violations happen during critical project milestones.
+```
 
 ## Last Words
 
